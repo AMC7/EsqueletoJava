@@ -1,4 +1,4 @@
-package principal;
+package main;
 import static util.Print.*;
 import static util.ManejadorDeArchivos.*;
 import static util.MyString.*;
